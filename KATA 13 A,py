@@ -139,3 +139,5 @@ plt.plot(x2,y2)
 plt.show()
 
 print(evalua([12],coef))
+
+# Resultado: 4.287500000001671
