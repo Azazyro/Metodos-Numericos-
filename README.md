@@ -5,7 +5,7 @@ El análisis numérico o cálculo numérico es la rama de las matemáticas encar
 El contenido del curso está dividido en tres parciales, cada uno con distintos métodos numéricos:
 
 # Primer parcial
-- Método de Bisección
+- [Método de Bisección](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20de%20Biseccion)
 - Convergencia y Divergencia
 - Newton-Raphson
 - Falsa Posición
@@ -26,7 +26,3 @@ El contenido del curso está dividido en tres parciales, cada uno con distintos 
 - Método de Lagrange
 - Integración Numérica
 - Ecuaciones Diferenciales-Euler
-
-
-
-[Método de Bisección](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20de%20Biseccion)
