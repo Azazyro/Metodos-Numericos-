@@ -5,27 +5,27 @@ El análisis numérico o cálculo numérico es la rama de las matemáticas encar
 El contenido del curso está dividido en tres parciales, cada uno con distintos métodos numéricos:
 
 # Primer parcial
-Método de Bisección
-Convergencia y Divergencia
-Newton-Raphson
-Falsa Posición
-Punto Fijo
-Método Gráfico
+- Método de Bisección
+- Convergencia y Divergencia
+- Newton-Raphson
+- Falsa Posición
+- Punto Fijo
+- Método Gráfico
 
 # Segundo parcial
-Funciones con Matrices
-Eliminación Gaussiana
-Factorización LU
-Newton-Rapshon
-Sistemas de Ecuaciones
-Gauss-Seidel
+- Funciones con Matrices
+- Eliminación Gaussiana
+- Factorización LU
+- Newton-Rapshon
+- Sistemas de Ecuaciones
+- Gauss-Seidel
 
 # Tercer parcial
-Regresión Polinomial
-Interpolación Polinomial
-Método de Lagrange
-Integración Numérica
-Ecuaciones Diferenciales-Euler
+- Regresión Polinomial
+- Interpolación Polinomial
+- Método de Lagrange
+- Integración Numérica
+- Ecuaciones Diferenciales-Euler
 
 
 
