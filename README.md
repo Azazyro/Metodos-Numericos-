@@ -10,7 +10,7 @@ El contenido del curso está dividido en tres parciales, cada uno con distintos 
 - [Newton-Raphson](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20de%20Newton-Raphson)
 - [Falsa Posición](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20de%20Falsa%20Posicion)
 - [Punto Fijo](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20de%20Punto%20Fijo)
-- Método Gráfico
+- [Método Gráfico](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20Grafico)
 
 # Segundo parcial
 - Funciones con Matrices
