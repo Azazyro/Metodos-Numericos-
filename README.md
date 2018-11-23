@@ -6,7 +6,7 @@ El contenido del curso está dividido en tres parciales, cada uno con distintos 
 
 # Primer parcial
 - [Método de Bisección](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20de%20Biseccion)
-- Convergencia y Divergencia
+- [Convergencia y Divergencia](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Convergencia%20y%20Divergencia)
 - Newton-Raphson
 - Falsa Posición
 - Punto Fijo
