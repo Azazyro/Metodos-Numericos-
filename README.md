@@ -1,4 +1,4 @@
-# MÉTODO NUMÉRICOS
+# MÉTODOS NUMÉRICOS
 
 El análisis numérico o cálculo numérico es la rama de las matemáticas encargada de diseñar algoritmos para, a través de números y reglas matemáticas simples, simular procesos matemáticos más complejos aplicados a procesos del mundo real.
 
