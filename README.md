@@ -9,7 +9,7 @@ El contenido del curso está dividido en tres parciales, cada uno con distintos 
 - [Convergencia y Divergencia](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Convergencia%20y%20Divergencia)
 - [Newton-Raphson](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20de%20Newton-Raphson)
 - [Falsa Posición](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20de%20Falsa%20Posicion)
-- Punto Fijo
+- [Punto Fijo](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20de%20Punto%20Fijo)
 - Método Gráfico
 
 # Segundo parcial
