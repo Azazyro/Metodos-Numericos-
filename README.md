@@ -13,7 +13,7 @@ El contenido del curso está dividido en tres parciales, cada uno con distintos 
 - [Método Gráfico](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20Grafico)
 
 # Segundo parcial
-- Funciones con Matrices
+- [Funciones con Matrices](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Funciones%20con%20Matrices)
 - Eliminación Gaussiana
 - Factorización LU
 - Newton-Rapshon
