@@ -21,8 +21,8 @@ El contenido del curso está dividido en tres parciales, cada uno con distintos 
 - [Gauss-Seidel](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Gauss-Seidel)
 
 # Tercer parcial
-- Regresión Polinomial
-- Interpolación Polinomial
-- Método de Lagrange
-- Integración Numérica
-- Ecuaciones Diferenciales-Euler
+- [Regresión Polinomial](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Regresion%20Polinomial)
+- [Interpolación Polinomial](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Interpolacion%20Polinomial)
+- [Método de Lagrange](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Metodo%20de%20Lagrange)
+- [Integración Numérica](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Integracion%20Numerica)
+- [Ecuaciones Diferenciales-Euler](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Ecuaciones%20Diferenciales%20-%20Euler)
