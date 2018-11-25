@@ -16,7 +16,7 @@ El contenido del curso está dividido en tres parciales, cada uno con distintos 
 - [Funciones con Matrices](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Funciones%20con%20Matrices)
 - [Eliminación Gaussiana](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Eliminacion%20Gaussiana)
 - [Factorización LU](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Factorizacion%20LU)
-- Newton-Rapshon para sistemas de ecuaciones no lineales
+- [Newton-Rapshon para sistemas de ecuaciones no lineales](https://github.com/Azazyro/Metodos-Numericos-/tree/master/NR%20para%20sistemas%20no%20lineales)
 - [Sistemas de Ecuaciones](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Sistemas%20de%20Ecuaciones)
 - [Gauss-Seidel](https://github.com/Azazyro/Metodos-Numericos-/tree/master/Gauss-Seidel)
 
