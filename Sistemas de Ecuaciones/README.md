@@ -10,3 +10,4 @@ Para obtener una matriz inversa, este código hace:
 - Transpuesta
 - Inversa
 
+[Codigo de funciones con matrices](https://github.com/Azazyro/Metodos-Numericos-/blob/master/Sistemas%20de%20Ecuaciones/Codigo%20de%20Sistemas%20de%20Ecuaciones.py)
