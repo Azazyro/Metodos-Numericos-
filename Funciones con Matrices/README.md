@@ -1,15 +1,9 @@
 # Funciones con Matrices
 
-Las matrices son en sí una herramienta de gran utilidad en las matemáticas pero, sobre todo, lo son cuando se trata de matrices regulares. No sólo para el cálculo de las soluciones de un sistema de ecuaciones lineales compatible determinado, sino que este propiedad facilita las demostraciones en otros campos de las matemáticas. 
-Tenemos varios métodos para obtenerla, entre los que destacan: la eliminación de Gauss y la adjunción. Se suele utilizar el segundo de éstos porque es más rápido que el primero, que consiste en buscar la forma escalonada reducida de la una matriz formada por la propia matriz en un lado y la identidad en el otro
+En matemática, una matriz es un arreglo bidimensional de números. Dado que puede definirse tanto la suma como el producto de matrices, en mayor generalidad se dice que son elementos de un anillo. Una matriz se representa por medio de una letra mayúscula(A,B..) y sus elementos con la misma letra en minúscula (a,b...), con un doble subíndice donde el primero indica la fila y el segundo la columna a la que pertenece. 
 
 Las funciones que tiene este código son:
 - Suma
-- Multiplicación 
-- Obtener una matriz de dimension m-1xn-1
-- Determinante
-- Matriz adyacente
-- Transpuesta
-- Inversa
+- Resta
 
 [Código de las funciones con matrices](https://github.com/Azazyro/Metodos-Numericos-/blob/master/Funciones%20con%20Matrices/Codigo%20de%20Funciones%20con%20Matrices.py)
