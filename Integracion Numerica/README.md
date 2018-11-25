@@ -4,15 +4,15 @@ En análisis numérico, la integración numérica constituye una amplia gama de 
 
 Se usan tres métodos distintos de integración en este código:
 
-- Regla del Trapecio
+### - Regla del Trapecio
 
 ![regla del trapecio](https://user-images.githubusercontent.com/42184192/48984565-b6714b80-f0c2-11e8-983e-3f0f1f01fab0.jpg)
 
-- Simpson 1/3
+### - Simpson 1/3
 
 ![simpson 13](https://user-images.githubusercontent.com/42184192/48984574-ca1cb200-f0c2-11e8-8af2-b49ec30e2af5.JPG)
 
-- Simpson 3/8
+### - Simpson 3/8
 
 ![simpson 38](https://user-images.githubusercontent.com/42184192/48984569-bcffc300-f0c2-11e8-887d-676afbf5fe0d.JPG)
 
